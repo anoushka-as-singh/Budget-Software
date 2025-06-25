@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BudgetSoftware.Migrations
 {
     [DbContext(typeof(ContractDbContext))]
-    [Migration("20250624094634_createdb")]
+    [Migration("20250625110312_createdb")]
     partial class createdb
     {
         /// <inheritdoc />

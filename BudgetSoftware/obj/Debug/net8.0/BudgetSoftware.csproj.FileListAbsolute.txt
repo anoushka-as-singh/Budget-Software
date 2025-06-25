@@ -169,3 +169,4 @@ C:\Users\DEll\source\repos\BudgetSoftware\BudgetSoftware\obj\Debug\net8.0\refint
 C:\Users\DEll\source\repos\BudgetSoftware\BudgetSoftware\obj\Debug\net8.0\BudgetSoftware.pdb
 C:\Users\DEll\source\repos\BudgetSoftware\BudgetSoftware\obj\Debug\net8.0\BudgetSoftware.genruntimeconfig.cache
 C:\Users\DEll\source\repos\BudgetSoftware\BudgetSoftware\obj\Debug\net8.0\ref\BudgetSoftware.dll
+C:\Users\DEll\source\repos\BudgetSoftware\BudgetSoftware\obj\Debug\net8.0\BudgetSoftware.sourcelink.json
