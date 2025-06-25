@@ -1,0 +1,52 @@
+﻿@model Contract
+@{
+    ViewData["Title"] = "Edit Contract";
+}
+<h2>Edit Contract</h2>
+<form asp-action="Edit" class="needs-validation" novalidate>
+    <input type="hidden" asp-for="ContractId" />
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label asp-for="ContractNumber" class="form-label"></label>
+            <input asp-for="ContractNumber" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="ValidFrom" class="form-label"></label>
+            <input asp-for="ValidFrom" type="date" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="ValidTo" class="form-label"></label>
+            <input asp-for="ValidTo" type="date" class="form-control" required />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label asp-for="BudgetValidity" class="form-label"></label>
+            <input asp-for="BudgetValidity" type="date" class="form-control" required />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="Programme" class="form-label"></label>
+            <input asp-for="Programme" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="State" class="form-label"></label>
+            <input asp-for="State" class="form-control" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label asp-for="DutyStation" class="form-label"></label>
+            <input asp-for="DutyStation" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="Modality" class="form-label"></label>
+            <input asp-for="Modality" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label asp-for="Comments" class="form-label"></label>
+            <input asp-for="Comments" class="form-control" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

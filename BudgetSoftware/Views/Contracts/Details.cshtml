@@ -1,0 +1,21 @@
+﻿@model Contract
+@{
+    ViewData["Title"] = "Contract Details";
+}
+<h2>Contract Details</h2>
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.ContractNumber</h5>
+        <p class="card-text">
+            <strong>Validity:</strong> @Model.ValidFrom.ToShortDateString() - @Model.ValidTo.ToShortDateString()<br />
+            <strong>Budget Validity:</strong> @Model.BudgetValidity.ToShortDateString()<br />
+            <strong>Programme:</strong> @Model.Programme<br />
+            <strong>State:</strong> @Model.State<br />
+            <strong>Duty Station:</strong> @Model.DutyStation<br />
+            <strong>Modality:</strong> @Model.Modality<br />
+            <strong>Comments:</strong> @Model.Comments
+        </p>
+        <a asp-action="Edit" asp-route-id="@Model.ContractId" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</div>

@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\migrations\\20250624094634_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\migrations\\20250624094634_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\contractbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\contractbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|c:\\users\\dell\\source\\repos\\budgetsoftware\\budgetsoftware\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC44E8A1-C346-438E-A3DF-E5670CCB9A7A}|BudgetSoftware\\BudgetSoftware.csproj|solutionrelative:budgetsoftware\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250624094634_createdb.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Migrations\\20250624094634_createdb.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Migrations\\20250624094634_createdb.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Migrations\\20250624094634_createdb.cs",
+              "RelativeToolTip": "BudgetSoftware\\Migrations\\20250624094634_createdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:46:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\appsettings.json",
+              "RelativeDocumentMoniker": "BudgetSoftware\\appsettings.json",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\appsettings.json",
+              "RelativeToolTip": "BudgetSoftware\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T09:32:49.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BudgetSoftware\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:49:19.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Contracts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Delete.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Contracts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:18:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Create.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Contracts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Create.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Contracts\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:17:38.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:29:53.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "BudgetSoftware\\Controllers\\ContractController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:25:49.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ContractDbContext.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\ContractDbContext.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ContractDbContext.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\ContractDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:13:05.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Program.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Program.cs",
+              "RelativeToolTip": "BudgetSoftware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:50:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Contracts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Index.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Contracts\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:41:50.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Contracts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Edit.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Contracts\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:18:09.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Details.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Contracts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Contracts\\Details.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Contracts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:18:32.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:28:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Contract.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\Contract.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:01:22.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Expense.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\Expense.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:03:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Payment.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:05:26.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BudgetSoftware\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T04:49:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Consultant.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\Consultant.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\Consultant.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\Consultant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:02:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BudgetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\BudgetCategory.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\BudgetCategory.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\BudgetCategory.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\BudgetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:02:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContractBudget.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ContractBudget.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\ContractBudget.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ContractBudget.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\ContractBudget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:02:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BudgetSoftware\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DEll\\source\\repos\\BudgetSoftware\\BudgetSoftware\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BudgetSoftware\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:49:44.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

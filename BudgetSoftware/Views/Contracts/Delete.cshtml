@@ -1,0 +1,23 @@
+﻿@model Contract
+@{
+    ViewData["Title"] = "Delete Contract";
+}
+<h2>Delete Contract</h2>
+<div class="alert alert-danger">
+    <strong>Are you sure you want to delete this contract?</strong>
+</div>
+<dl class="row">
+    <dt class="col-sm-3">Contract Number</dt>
+    <dd class="col-sm-9">@Model.ContractNumber</dd>
+    <dt class="col-sm-3">Programme</dt>
+    <dd class="col-sm-9">@Model.Programme</dd>
+    <dt class="col-sm-3">State</dt>
+    <dd class="col-sm-9">@Model.State</dd>
+    <dt class="col-sm-3">Comments</dt>
+    <dd class="col-sm-9">@Model.Comments</dd>
+</dl>
+<form asp-action="Delete">
+    <input type="hidden" asp-for="ContractId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

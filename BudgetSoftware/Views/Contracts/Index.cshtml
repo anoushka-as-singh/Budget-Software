@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Contract>
+@{
+    ViewData["Title"] = "Contracts";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Contracts</h2>
+    <a class="btn btn-success" asp-action="Create">+ Add Contract</a>
+</div>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Contract Number</th>
+            <th>Validity</th>
+            <th>Budget Validity</th>
+            <th>Programme</th>
+            <th>State</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ContractId</td>
+                <td>@item.ContractNumber</td>
+                <td>@item.ValidFrom.ToShortDateString() - @item.ValidTo.ToShortDateString()</td>
+                <td>@item.BudgetValidity.ToShortDateString()</td>
+                <td>@item.Programme</td>
+                <td>@item.State</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-id="@item.ContractId">View</a>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.ContractId">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.ContractId"
+                       onclick="return confirm('Are you sure to delete?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
